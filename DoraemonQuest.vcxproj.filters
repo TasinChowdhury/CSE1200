@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\Air Cannon.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\b1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\b2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\b3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\b4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\ball.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg1.1.1.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg1.1.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg1.2.2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg1.2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg2.1.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg2.2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg3.1.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg3.2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bgd.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bgd2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bomb1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bomb2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bomb3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bt.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\d1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\d2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\dl1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\dl2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\e.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\e.2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\e.3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\e.4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\eating doracake1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\eating doracake2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\f1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\f2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\f3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\f4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\g1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\g2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\g3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\g4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\g5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\g6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\g7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\i1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\inv1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\inv2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\inv3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\Menu.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\r.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\s1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\s2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\s3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\s4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\s5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\sInvi.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\t4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile9.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile10.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile11.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile12.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile13.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile14.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile15.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile16.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\in2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\in3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\in1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\n1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\n2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\n3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\n4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\control1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\control2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\credits button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\credits.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\exit button.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\creditsbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\exitbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\firstpage1.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\firstpage1.2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\mainmenu.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\optionbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\startbutton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\firstpage1.1.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\firstpage1.2.2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\i2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\mainmenu1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\SignArrow.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\story line.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\t3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\t6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\t7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile14.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile31.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile42.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile71.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile72.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\story1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\story2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\story3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\story4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\story5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg1.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bg2.jpeg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile3.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile6.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile8.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile13.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile17.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile18.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile19.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile20.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile4.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile5.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile10.1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\tile21.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\L1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\L2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\L3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\L4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\L5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\L6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\spike monster1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\spike monster2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enem1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enem2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enem3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enem4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enem5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enemH.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enemW2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\sm.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\smL.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bosshit1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bullethit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\bullethit4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\en1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\en2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\en3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\en4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enA1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enA2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enH1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\fH1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\fire.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\fire4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\fo1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\fo2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\fo3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\fo4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\foA1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\foA2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\foA3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\foA4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\enemH1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\control.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\doracake.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\doracake-removebg-preview.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\gameover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\option.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\score1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\score2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\spike1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\spike2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\victorypg.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Images\end.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Music\bg1.mp3" />
+    <Media Include="Music\e1.mp3" />
+    <Media Include="Music\enemy1.mp3" />
+    <Media Include="Music\enemy1B.mp3" />
+    <Media Include="Music\gameover.mp3" />
+    <Media Include="Music\jump.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Music\menu.mp3" />
+    <Media Include="Music\mouse (2).wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Music\Mouse.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Music\smoke.mp3" />
+    <Media Include="Music\win.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="assets\level1.txt" />
+    <Text Include="assets\level2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\desktop.ini" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

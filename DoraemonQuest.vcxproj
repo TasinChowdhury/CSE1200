@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Images\Air Cannon.png" />
+    <Image Include="Images\b1.png" />
+    <Image Include="Images\b2.png" />
+    <Image Include="Images\b3.png" />
+    <Image Include="Images\b4.png" />
+    <Image Include="Images\ball.png" />
+    <Image Include="Images\bg1.1.1.jpeg" />
+    <Image Include="Images\bg1.1.jpeg" />
+    <Image Include="Images\bg1.2.2.jpeg" />
+    <Image Include="Images\bg1.2.jpeg" />
+    <Image Include="Images\bg1.jpeg" />
+    <Image Include="Images\bg2.1.jpeg" />
+    <Image Include="Images\bg2.2.jpeg" />
+    <Image Include="Images\bg2.jpeg" />
+    <Image Include="Images\bg3.1.jpeg" />
+    <Image Include="Images\bg3.2.jpeg" />
+    <Image Include="Images\bgd.jpeg" />
+    <Image Include="Images\bgd2.jpeg" />
+    <Image Include="Images\bomb1.png" />
+    <Image Include="Images\bomb2.png" />
+    <Image Include="Images\bomb3.png" />
+    <Image Include="Images\bosshit1.png" />
+    <Image Include="Images\bt.1.png" />
+    <Image Include="Images\bullethit.png" />
+    <Image Include="Images\bullethit4.png" />
+    <Image Include="Images\control.png" />
+    <Image Include="Images\control1.png" />
+    <Image Include="Images\control2.png" />
+    <Image Include="Images\credits button.png" />
+    <Image Include="Images\credits.png" />
+    <Image Include="Images\creditsbutton.png" />
+    <Image Include="Images\d1.png" />
+    <Image Include="Images\d2.png" />
+    <Image Include="Images\dl1.png" />
+    <Image Include="Images\dl2.png" />
+    <Image Include="Images\doracake-removebg-preview.png" />
+    <Image Include="Images\doracake.png" />
+    <Image Include="Images\e.1.png" />
+    <Image Include="Images\e.2.png" />
+    <Image Include="Images\e.3.png" />
+    <Image Include="Images\e.4.png" />
+    <Image Include="Images\eating doracake1.png" />
+    <Image Include="Images\eating doracake2.png" />
+    <Image Include="Images\en1.png" />
+    <Image Include="Images\en2.png" />
+    <Image Include="Images\en3.png" />
+    <Image Include="Images\en4.png" />
+    <Image Include="Images\enA1.png" />
+    <Image Include="Images\enA2.png" />
+    <Image Include="Images\end.png" />
+    <Image Include="Images\enem1.png" />
+    <Image Include="Images\enem2.png" />
+    <Image Include="Images\enem3.png" />
+    <Image Include="Images\enem4.png" />
+    <Image Include="Images\enem5.png" />
+    <Image Include="Images\enemH.png" />
+    <Image Include="Images\enemH1.png" />
+    <Image Include="Images\enemW2.png" />
+    <Image Include="Images\enH1.png" />
+    <Image Include="Images\exit button.png" />
+    <Image Include="Images\exitbutton.png" />
+    <Image Include="Images\f1.png" />
+    <Image Include="Images\f2.png" />
+    <Image Include="Images\f3.png" />
+    <Image Include="Images\f4.png" />
+    <Image Include="Images\fH1.png" />
+    <Image Include="Images\fire.png" />
+    <Image Include="Images\fire4.png" />
+    <Image Include="Images\firstpage1.1.1.png" />
+    <Image Include="Images\firstpage1.1.png" />
+    <Image Include="Images\firstpage1.2.2.png" />
+    <Image Include="Images\firstpage1.2.png" />
+    <Image Include="Images\fo1.png" />
+    <Image Include="Images\fo2.png" />
+    <Image Include="Images\fo3.png" />
+    <Image Include="Images\fo4.png" />
+    <Image Include="Images\foA1.png" />
+    <Image Include="Images\foA2.png" />
+    <Image Include="Images\foA3.png" />
+    <Image Include="Images\foA4.png" />
+    <Image Include="Images\g1.png" />
+    <Image Include="Images\g2.png" />
+    <Image Include="Images\g3.png" />
+    <Image Include="Images\g4.png" />
+    <Image Include="Images\g5.png" />
+    <Image Include="Images\g6.png" />
+    <Image Include="Images\g7.png" />
+    <Image Include="Images\gameover.png" />
+    <Image Include="Images\i1.png" />
+    <Image Include="Images\i2.png" />
+    <Image Include="Images\in1.png" />
+    <Image Include="Images\in2.png" />
+    <Image Include="Images\in3.png" />
+    <Image Include="Images\inv1.png" />
+    <Image Include="Images\inv2.png" />
+    <Image Include="Images\inv3.png" />
+    <Image Include="Images\L1.png" />
+    <Image Include="Images\L2.png" />
+    <Image Include="Images\L3.png" />
+    <Image Include="Images\L4.png" />
+    <Image Include="Images\L5.png" />
+    <Image Include="Images\L6.png" />
+    <Image Include="Images\mainmenu.png" />
+    <Image Include="Images\mainmenu1.png" />
+    <Image Include="Images\Menu.jpeg" />
+    <Image Include="Images\n1.png" />
+    <Image Include="Images\n2.png" />
+    <Image Include="Images\n3.png" />
+    <Image Include="Images\n4.png" />
+    <Image Include="Images\option.png" />
+    <Image Include="Images\optionbutton.png" />
+    <Image Include="Images\r.1.png" />
+    <Image Include="Images\s1.png" />
+    <Image Include="Images\s2.png" />
+    <Image Include="Images\s3.png" />
+    <Image Include="Images\s4.png" />
+    <Image Include="Images\s5.png" />
+    <Image Include="Images\score1.png" />
+    <Image Include="Images\score2.png" />
+    <Image Include="Images\SignArrow.png" />
+    <Image Include="Images\sInvi.png" />
+    <Image Include="Images\sm.png" />
+    <Image Include="Images\smL.png" />
+    <Image Include="Images\spike monster1.png" />
+    <Image Include="Images\spike monster2.png" />
+    <Image Include="Images\spike1.png" />
+    <Image Include="Images\spike2.png" />
+    <Image Include="Images\startbutton.png" />
+    <Image Include="Images\story line.png" />
+    <Image Include="Images\story1.png" />
+    <Image Include="Images\story2.png" />
+    <Image Include="Images\story3.png" />
+    <Image Include="Images\story4.png" />
+    <Image Include="Images\story5.png" />
+    <Image Include="Images\t3.png" />
+    <Image Include="Images\t4.png" />
+    <Image Include="Images\t6.png" />
+    <Image Include="Images\t7.png" />
+    <Image Include="Images\tile1.png" />
+    <Image Include="Images\tile10.1.png" />
+    <Image Include="Images\tile10.png" />
+    <Image Include="Images\tile11.png" />
+    <Image Include="Images\tile12.png" />
+    <Image Include="Images\tile13.1.png" />
+    <Image Include="Images\tile13.png" />
+    <Image Include="Images\tile14.1.png" />
+    <Image Include="Images\tile14.png" />
+    <Image Include="Images\tile15.png" />
+    <Image Include="Images\tile16.png" />
+    <Image Include="Images\tile17.png" />
+    <Image Include="Images\tile18.png" />
+    <Image Include="Images\tile19.png" />
+    <Image Include="Images\tile2.png" />
+    <Image Include="Images\tile20.png" />
+    <Image Include="Images\tile21.png" />
+    <Image Include="Images\tile3.1.png" />
+    <Image Include="Images\tile3.png" />
+    <Image Include="Images\tile31.png" />
+    <Image Include="Images\tile4.1.png" />
+    <Image Include="Images\tile4.png" />
+    <Image Include="Images\tile42.png" />
+    <Image Include="Images\tile5.1.png" />
+    <Image Include="Images\tile5.png" />
+    <Image Include="Images\tile6.1.png" />
+    <Image Include="Images\tile6.png" />
+    <Image Include="Images\tile7.png" />
+    <Image Include="Images\tile71.png" />
+    <Image Include="Images\tile72.png" />
+    <Image Include="Images\tile8.1.png" />
+    <Image Include="Images\tile8.png" />
+    <Image Include="Images\tile9.png" />
+    <Image Include="Images\victorypg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Music\bg1.mp3" />
+    <Media Include="Music\e1.mp3" />
+    <Media Include="Music\enemy1.mp3" />
+    <Media Include="Music\enemy1B.mp3" />
+    <Media Include="Music\gameover.mp3" />
+    <Media Include="Music\jump.wav" />
+    <Media Include="Music\menu.mp3" />
+    <Media Include="Music\mouse (2).wav" />
+    <Media Include="Music\Mouse.wav" />
+    <Media Include="Music\smoke.mp3" />
+    <Media Include="Music\win.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="assets\level1.txt" />
+    <Text Include="assets\level2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\desktop.ini" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iMain.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{925FFD1D-D450-47AC-A9EA-19EB6A8E233C}</ProjectGuid>
+    <RootNamespace>DoraemonQuest</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
